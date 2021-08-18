@@ -1,0 +1,5 @@
+*.pyc
+dist/django_demo-0.1.0-py3-none-any.whl
+dist/django-demo-0.1.0.tar.gz
+.vscode/settings.json
+farm_registration/db.sqlite3
